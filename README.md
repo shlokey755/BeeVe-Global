@@ -4,15 +4,15 @@
 
 **BeeVe Global IoT Website** is a premium, futuristic, responsive company website built for an IoT solutions business focused on GPS tracking, fleet management, connected devices, sensor monitoring, telematics, asset tracking, business automation, and real-time analytics.
 <hr>
-<table style="display:center; border-width:4px">
+<table style="display:block; border-width:4px; text-align:center;">
    <tr>
       <th> >>> </th>
-      <td><a href="https://beeve-global-3wzowb2os-yash7443p-1084s-projects.vercel.app/" style="display: block; text-align: center;">Vercel Deployment link</a></td>
+      <td><a href="https://beeve-global-3wzowb2os-yash7443p-1084s-projects.vercel.app/">Vercel Deployment link</a></td>
       <td> <<< </td>
    </tr><br>
    <tr>
       <th> >>> </th>
-      <td><a href="https://yoyash.github.io/BeeVe-Global/" style="display: block; text-align: center;">GitHub Repository Page</a></td>
+      <td><a href="https://yoyash.github.io/BeeVe-Global/">GitHub Repository Page</a></td>
       <td> <<< </td>
    </tr>
 </table>
@@ -261,7 +261,7 @@ http://localhost:3000
 
 ---
 
-## Deployment Option 1: Deploy on Vercel
+## Deployment: Deploy on Vercel
 
 Vercel is the easiest deployment platform for Next.js projects.
 
@@ -291,57 +291,6 @@ https://beeve-global.vercel.app
 
 ---
 
-## Deployment Option 2: Deploy on Netlify
-
-Netlify also supports Next.js hosting.
-
-### Steps
-
-1. Push the project to GitHub.
-2. Log in to Netlify.
-3. Click **Add new site**.
-4. Choose **Import an existing project**.
-5. Connect the GitHub repository.
-6. Use these build settings:
-
-```text
-Build command: npm run build
-Publish directory: .next
-```
-
-7. Deploy the site.
-
-Note: For advanced Next.js features, Netlify may install its Next.js adapter automatically.
-
----
-
-## Deployment Option 3: Deploy on Your Own Server/VPS
-
-Use this option only if you have a server with Node.js installed.
-
-### Steps
-
-Upload the project to your server, then run:
-
-```bash
-npm install
-npm run build
-npm start
-```
-
-By default, the app runs on port `3000`.
-
-You can use a process manager like PM2:
-
-```bash
-npm install -g pm2
-pm2 start npm --name beeve-global-iot -- start
-pm2 save
-```
-
-Then configure Nginx or Apache as a reverse proxy to point your domain to the app.
-
----
 
 ## No-Installation Preview Option
 
