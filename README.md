@@ -7,7 +7,7 @@
 <tr>
    <th> 1. </th>
    <td><a href="https://beeve-global-3wzowb2os-yash7443p-1084s-projects.vercel.app/" style="display: block; text-align: center;">Vercel Deployment link</a></td>
-</tr>
+</tr><br>
 <tr>
    <th> 2. </th>
    <td><a href="https://yoyash.github.io/BeeVe-Global/" style="display: block; text-align: center;">GitHub Repository Page</a></td>
