@@ -4,16 +4,16 @@
 
 **BeeVe Global IoT Website** is a premium, futuristic, responsive company website built for an IoT solutions business focused on GPS tracking, fleet management, connected devices, sensor monitoring, telematics, asset tracking, business automation, and real-time analytics.
 <hr>
-<table style="display:center;">
+<table style="display:center; border-width:4px">
    <tr>
-      <th> ====== </th>
+      <th> >>> </th>
       <td><a href="https://beeve-global-3wzowb2os-yash7443p-1084s-projects.vercel.app/" style="display: block; text-align: center;">Vercel Deployment link</a></td>
-      <td> ====== </td>
+      <td> <<< </td>
    </tr><br>
    <tr>
-      <th> ====== </th>
+      <th> >>> </th>
       <td><a href="https://yoyash.github.io/BeeVe-Global/" style="display: block; text-align: center;">GitHub Repository Page</a></td>
-      <td> ====== </td>
+      <td> <<< </td>
    </tr>
 </table>
 <hr>
