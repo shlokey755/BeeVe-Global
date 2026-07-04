@@ -13,7 +13,7 @@
       </tr>
    </table>
 </div>
-<div align=left>
+<div align=justify>
 The website presents *_BeeVe Global_* as a modern IoT solutions company serving businesses that want to monitor, manage, secure, and optimize vehicles, devices, assets, infrastructure, and operations in real time. It includes pages and sections for IoT platform capabilities, fleet solutions, GPS tracking, AIS-140-ready tracking, cold chain monitoring, data center monitoring, HVAC monitoring, last-mile delivery, product/device enquiry, industries, insights, contact, request demo, and a mock client portal.
 </div>
 
