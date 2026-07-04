@@ -3,8 +3,9 @@
 ## Overview
 
 **_BeeVe Global IoT_ Website** is a premium, futuristic, responsive company website built for an IoT solutions business focused on GPS tracking, fleet management, connected devices, sensor monitoring, telematics, asset tracking, business automation, and real-time analytics.
-<hr>
+
 <div align="center">
+   <hr>
    <table>
       <tr>
          <th><a href="https://beeve-global-3wzowb2os-yash7443p-1084s-projects.vercel.app/">Vercel Deployment link</a></th>
