@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "test-beeve-global",
+  "name": "test-global",
   "compatibility_date": "2026-07-10",
   "observability": {
     "enabled": true
